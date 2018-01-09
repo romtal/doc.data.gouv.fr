@@ -23,9 +23,7 @@ buttons:
 
 # Découvrir L'OpenData
 
-La mission Etalab, placée sous l’autorité du Premier ministre au sein du SGMAP,
-a pour mission d’accompagner l’ouverture des données publiques de l’Etat et des administrations.
-À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques « data.gouv.fr »
+La mission Etalab, placée sous l’autorité du Premier ministre au sein de la Direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), a pour mission d’accompagner l’ouverture des données publiques de l’Etat et des administrations. À ce titre, elle met en oeuvre et anime la plateforme ouverte des données publiques « data.gouv.fr »
 qui héberge les jeux de données et recense leurs réutilisations.
 
 ## A quoi servent les données ouvertes ?
