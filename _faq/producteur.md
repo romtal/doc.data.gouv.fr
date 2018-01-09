@@ -174,7 +174,7 @@ vous permet de déclarer une fois pour toutes une donnée avec une fréquence de
 
 ### Bureau, département ou service
 Préciser ici, de manière optionnelle, les indications sur l'organisation effectivement productrice,
-par exemple SGMAP/Service X.
+par exemple DINSIC/Service X.
 
 ### Courriel de contact
 Préciser ici, de manière optionnelle, l'adresse mail du producteur,
